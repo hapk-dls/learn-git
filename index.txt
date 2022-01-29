@@ -5,4 +5,7 @@
 #naruto
 #kakashi
 #sakura
+<<<<<<< HEAD
 #sasuke
+=======
+>>>>>>> a300d78 (squash 3 commits)
