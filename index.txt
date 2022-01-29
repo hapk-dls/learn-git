@@ -2,3 +2,6 @@
 #line 2
 #yua mikami
 #hanako
+#naruto
+#kakashi
+#sakura
